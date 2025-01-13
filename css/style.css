@@ -319,11 +319,8 @@ pre {
 }
 
 
-a.dekho{
-    font-size: 90px;
-    height: 0px;
-    color: red;
-}
+
+
 
 
 
@@ -13057,6 +13054,12 @@ a,
     background-color: #fff;
     border-color: #fff;
     color: #306EE8;
+}
+
+.btn.btn-outline-green-reverse {
+    background-color: #25d366;
+    border-color: #fff;
+    color: #fff;
 }
 
 .btn.btn-outline-white-reverse:hover {
